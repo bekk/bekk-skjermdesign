@@ -1,3 +1,14 @@
+@font-face {
+  font-family:Lekton-Regular;
+  src: url('Lekton-Regular.woff2') format('woff2')
+}
+
+@font-face {
+  font-family: Lekton-Bold;
+  src: url('Lekton-Bold.woff2') format('woff2')
+}
+
+
 body {
     font-family: 'Lekton-Regular';
     background-color: #048BA8;
